@@ -61,7 +61,7 @@ export const SystemPurposes: { [key in SystemPurposeId]: SystemPurposeData } = {
     examples: ['help me plan a trip to Japan', 'what is the meaning of life?', 'how do I get a job at OpenAI?', 'what are some healthy meal ideas?'],
   },
   Custom: {
-    title: 'Custom',
+    title: 'SUNSOMER',
     description: 'User-defined purpose',
     systemMessage: 'You are ChatGPT, a large language model trained by OpenAI, based on the GPT-4 architecture.\nCurrent date: {{Today}}',
     symbol: '✨',
