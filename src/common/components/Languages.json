@@ -1,8 +1,12 @@
 {
+  "پارسی": "fa-IR",
   "Afrikaans": "af-ZA",
   "አማርኛ": "am-ET",
   "Azərbaycanca": "az-AZ",
-  "বাংলা": { "বাংলাদেশ": "bn-BD", "ভারত": "bn-IN" },
+  "বাংলা": {
+    "বাংলাদেশ": "bn-BD",
+    "ভারত": "bn-IN"
+  },
   "Bahasa Indonesia": "id-ID",
   "Bahasa Melayu": "ms-MY",
   "Català": "ca-ES",
@@ -54,7 +58,10 @@
   "Hrvatski": "hr-HR",
   "IsiZulu": "zu-ZA",
   "Íslenska": "is-IS",
-  "Italiano": { "Italia": "it-IT", "Svizzera": "it-CH" },
+  "Italiano": {
+    "Italia": "it-IT",
+    "Svizzera": "it-CH"
+  },
   "ಕನ್ನಡ": "kn-IN",
   "ភាសាខ្មែរ": "km-KH",
   "Latviešu": "lv-LV",
@@ -67,7 +74,10 @@
   "नेपाली भाषा": "ne-NP",
   "Norsk bokmål": "nb-NO",
   "Polski": "pl-PL",
-  "Português": { "Brasil": "pt-BR", "Portugal": "pt-PT" },
+  "Português": {
+    "Brasil": "pt-BR",
+    "Portugal": "pt-PT"
+  },
   "Română": "ro-RO",
   "සිංහල": "si-LK",
   "Slovenščina": "sl-SI",
@@ -75,7 +85,10 @@
   "Slovenčina": "sk-SK",
   "Suomi": "fi-FI",
   "Svenska": "sv-SE",
-  "Kiswahili": { "Tanzania": "sw-TZ", "Kenya": "sw-KE" },
+  "Kiswahili": {
+    "Tanzania": "sw-TZ",
+    "Kenya": "sw-KE"
+  },
   "ქართული": "ka-GE",
   "Հայերեն": "hy-AM",
   "தமிழ்": {
@@ -87,7 +100,10 @@
   "తెలుగు": "te-IN",
   "Tiếng Việt": "vi-VN",
   "Türkçe": "tr-TR",
-  "اُردُو": { "پاکستان": "ur-PK", "بھارت": "ur-IN" },
+  "اُردُو": {
+    "پاکستان": "ur-PK",
+    "بھارت": "ur-IN"
+  },
   "Ελληνικά": "el-GR",
   "български": "bg-BG",
   "Pусский": "ru-RU",
